@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>talker</name>
+  <version>0.0.1</version>
+  <description>The talker package</description>
+  <maintainer email="ander.ansuategi@tekniker.es">Ander Ansuategi</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
